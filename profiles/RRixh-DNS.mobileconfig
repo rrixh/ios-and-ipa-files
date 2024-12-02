@@ -36,11 +36,11 @@
                 </dict>
             </array>
             <key>PayloadDisplayName</key>
-            <string>VyperHubs DNS</string>
+            <string>lulaslollipop DNS</string>
             <key>PayloadIdentifier</key>
             <string>your.link.profile</string>
             <key>PayloadOrganization</key>
-            <string>VyperHub</string>
+            <string>lulaslollipop</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
@@ -50,7 +50,7 @@
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>DNS Made by @rrixh / @bommunity#0000 10/10</string>
+    <string>DNS made by @rrixh / @bommunity#0000 10/10</string>
     <key>PayloadDisplayName</key>
     <string>RRixh DNS</string>
     <key>PayloadIdentifier</key>
